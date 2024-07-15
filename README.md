@@ -19,7 +19,7 @@ List of screws and spacers needed for each side:
 -   4x M3x4mm screws for the joystick module.[^4]
 
 [^1]: This can be adjust based on the thickness of your battery. The recommended minimum height is 7mm, but 6mm seems to also work.
-[^2]: The distance between the bottom side and the top side where the spacer is placed is 5mm ([image](img/06.png)). Adjust the length of the screw based on the height of your spacer.
+[^2]: The distance between the bottom side and the top side where the spacer is placed is 5mm ([image](./img/06.png)). Adjust the length of the screw based on the height of your spacer.
 [^3]: Maximum length is 12mm.
 [^4]: Maximum length is 10mm.
 
