@@ -37,3 +37,5 @@ List of screws and spacers needed for each side:
 ![](img/04.png)
 
 ![](img/05.png)
+
+![](img/10.png)
