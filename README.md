@@ -18,9 +18,9 @@ The plate has the thickness of 3mm. I also added the clips to snap the switches 
 
 ![](img/05.png)
 
-The joystick module case is designed to hold a **[KY-023](https://arduinomodules.info/ky-023-joystick-dual-axis-module/)** PCB and a **Xiao ESP32S3** board (other Xiao ESP32 should also fit since they have similar footprint). The board can be powered and connect directly via the USB port, or with a 3.7v battery for wireless connection (you can refer to this [image](img/08.png) for rough estimation of the size of the battery; the height of the battery should be less than 6mm). There's also a cutout for a 6x6x8 latching push button as a power switch for the Xiao if it is to be used with a battery.
+The joystick module case is designed to hold a **[KY-023](https://arduinomodules.info/ky-023-joystick-dual-axis-module/)** PCB and a **Xiao ESP32S3** board (other Xiao ESP32 should also fit since they have similar footprint). The board can be powered and connect directly via the USB port, or with a 3.7v battery for wireless connection (you can refer to this [image](img/08.png) for rough estimation of the size of the battery; the height of the battery should be less than 6mm). There's also a cutout for a 6x6x10 latching push button as a power switch for the Xiao if it is to be used with a battery.
 
-> Note that the reading resolution of KY-023 by default is very low. This should be only used for moving between monitors or tasks that do not require precision movements.
+> Note that the reading resolution of KY-023 by default is very low. This should be only used for moving between monitors or tasks that do not require precise movements.
 
 ### Trackpoint
 
@@ -41,7 +41,7 @@ The orientation of the module is reversed by default for better ergonomics. To r
     xinput set-prop $device_id "Coordinate Transformation Matrix" -1 0 1 0 -1 1 0 0 1
 
     # To revert the change, run:
-    # xinput set-prop $device_id "Coordinate Transformation Matrix" 1 0 0 0 1 0 0 0 1
+    # xinput set-prop $device_id "Coordinate Transformation Matrix" 1 0 1 0 1 1 0 0 1
     ```
 
 -   I don't use Wayland nor macOS personally so I cannot provide a verified solution.
