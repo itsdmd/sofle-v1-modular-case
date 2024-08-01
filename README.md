@@ -116,10 +116,10 @@ This is a simple design for holding a rectangular gel wrist rest. The inner size
 
 ### Trackpoint Module
 
-| Part                | Quantity | Notes                                      |
-| ------------------- | -------- | ------------------------------------------ |
-| M2, 6mm screw       | 2        | [Reference](img/screw_m2.jpeg) (optional)  |
-| M2, 4mm heat insert | 2        | [Reference](img/insert_m2.jpeg) (optional) |
+| Part                | Quantity | Notes                           |
+| ------------------- | -------- | ------------------------------- |
+| M2, 6mm screw       | 6        | [Reference](img/screw_m2.jpeg)  |
+| M2, 4mm heat insert | 6        | [Reference](img/insert_m2.jpeg) |
 
 [:arrow_up:](#table-of-contents)
 
