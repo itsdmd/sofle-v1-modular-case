@@ -1,6 +1,6 @@
 # Sofle v1 Modular Case
 
-![](img/01.png)
+![](img/100.jpg)
 
 ## Table of Contents
 
@@ -125,7 +125,11 @@ This is a simple design for holding a rectangular gel wrist rest. The inner size
 
 ## Images
 
-You can find more images in the [img](img) folder.
+You can find all images in the [img](img) folder.
+
+![](img/101.jpg)
+
+![](img/102.jpg)
 
 ![](img/03.png)
 
