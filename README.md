@@ -127,6 +127,8 @@ This is a simple design for holding a rectangular gel wrist rest. The inner size
 
 You can find all images in the [img](img) folder.
 
+![](img/103.jpg)
+
 ![](img/101.jpg)
 
 ![](img/102.jpg)
